@@ -1,10 +1,5 @@
 # Статистический вывод на Python: от генерации данных до проверки гипотез
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.24+-brightgreen.svg)](https://numpy.org)
-[![SciPy](https://img.shields.io/badge/SciPy-1.10+-orange.svg)](https://scipy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.6+-yellow.svg)](https://matplotlib.org)
-
 ## 📌 О проекте
 
 Этот проект демонстрирует ключевые методы **математической статистики** и **статистического вывода** на языке Python. Здесь реализованы:
@@ -16,7 +11,3 @@
 - Визуализация эмпирических и теоретических распределений
 
 Проект выполнен в формате Jupyter Notebook с подробными комментариями и графиками. Он может служить **шаблоном** для учебных задач по статистике или портфолио для позиций **Data Scientist / Data Analyst**.
-
----
-
-## 📂 Структура репозитория
